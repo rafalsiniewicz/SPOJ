@@ -1,3 +1,14 @@
+/*Napisz funkcję
+
+void printfloat(float);
+
+która dla zadanej liczby typu float wypisze jej reprezentację szesnastkową.
+
+Wejście
+W pierwszej linii liczba testów t, w kolejnych t wierszach jedna liczba zmiennoprzecinkowa w zakresie typu float.
+
+Wyjście
+W kolejnych t wierszach odzielone pojedynczymi spacjami bajty reprezenacji kolejnych liczb, w kolejności od najstarszego bajtu.*/
 #include<iostream>
 using namespace std;
 void printfloat(float x) {
